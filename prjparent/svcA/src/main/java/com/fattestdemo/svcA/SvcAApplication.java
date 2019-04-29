@@ -1,4 +1,4 @@
-package com.dubbotest.svcA;
+package com.fattestdemo.svcA;
 
 import org.apache.dubbo.config.spring.context.annotation.EnableDubbo;
 import org.springframework.boot.SpringApplication;

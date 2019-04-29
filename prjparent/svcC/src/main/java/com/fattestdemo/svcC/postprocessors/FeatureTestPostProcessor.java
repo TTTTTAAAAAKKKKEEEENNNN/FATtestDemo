@@ -1,4 +1,4 @@
-package com.dubbotest.svcC.postprocessors;
+package com.fattestdemo.svcC.postprocessors;
 
 import org.apache.dubbo.config.spring.ServiceBean;
 import org.springframework.beans.BeansException;

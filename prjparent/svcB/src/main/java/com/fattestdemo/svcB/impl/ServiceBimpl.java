@@ -1,4 +1,4 @@
-package com.dubbotest.svcB.impl;
+package com.fattestdemo.svcB.impl;
 
 import java.util.logging.Level;
 import java.util.logging.Logger;

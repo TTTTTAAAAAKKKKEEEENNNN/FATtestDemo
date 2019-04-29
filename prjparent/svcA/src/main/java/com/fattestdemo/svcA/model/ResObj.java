@@ -1,4 +1,4 @@
-package com.dubbotest.svcA.model;
+package com.fattestdemo.svcA.model;
 
 public class ResObj {
 	private String info;

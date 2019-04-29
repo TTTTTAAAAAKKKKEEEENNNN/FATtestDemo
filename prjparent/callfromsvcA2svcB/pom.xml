@@ -8,14 +8,11 @@
 	<packaging>jar</packaging>
 
 	<name>callfromsvcA2svcB</name>
-	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
-	<dependencies>
-	</dependencies>
 	<build>
 		<plugins>
 			<plugin>

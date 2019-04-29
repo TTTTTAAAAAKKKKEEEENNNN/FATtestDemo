@@ -1,4 +1,4 @@
-package com.dubbotest.svcB.filters;
+package com.fattestdemo.svcB.filters;
 
 import org.apache.dubbo.common.Constants;
 import org.apache.dubbo.rpc.Filter;

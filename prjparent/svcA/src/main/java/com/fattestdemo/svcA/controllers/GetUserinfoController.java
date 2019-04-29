@@ -1,4 +1,4 @@
-package com.dubbotest.svcA.controllers;
+package com.fattestdemo.svcA.controllers;
 
 import org.apache.dubbo.config.annotation.Reference;
 import org.springframework.stereotype.Controller;
@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.dubbotest.svcA.model.ResObj;
+import com.fattestdemo.svcA.model.ResObj;
 import com.facade.callfromsvcA2svcB.callfromA2B;
 
 @Controller

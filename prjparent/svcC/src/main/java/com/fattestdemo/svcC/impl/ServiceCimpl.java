@@ -1,4 +1,4 @@
-package com.dubbotest.svcC.impl;
+package com.fattestdemo.svcC.impl;
 
 
 import org.apache.dubbo.config.annotation.Service;
