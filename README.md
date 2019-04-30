@@ -1,7 +1,7 @@
 # FATtestDemo
 This is a sample project demonstrating how to implement FAT(Feature Acceptance Test) with Dubbo 2.7.0
 
-Please start the project in the following sequence:
+Please start the service instances in the following sequence:
 
 SvcC -> SvcB -> SvcA
 
